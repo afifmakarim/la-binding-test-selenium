@@ -22,3 +22,12 @@ PATH_TO_DRIVER="/path/to/webdriver/chromedriver"
 PATH_TO_HTML="file:///path/to/wco_redirect.html"
 
 ```
+
+### How To
+
+```sh
+npm install
+
+run using:
+node index.js
+```
