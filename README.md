@@ -26,6 +26,7 @@ PATH_TO_HTML="file:///path/to/wco_redirect.html"
 ### How To
 
 ```sh
+make .env file using above parameter
 npm install
 
 run using:
