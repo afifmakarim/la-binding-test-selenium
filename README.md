@@ -1,5 +1,5 @@
-# la-binding-test-selenium
-LA binding automation test using selenium
+# LA Binding Automation Test
+LA binding automation dev test using selenium
 
 ### Environment Variable
 ```sh
